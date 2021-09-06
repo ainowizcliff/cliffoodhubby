@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">food hub</string>
+    <string name="slogan_name">food hub</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="oder">ORDER NOW</string>
+    <string name="almost">YOU ARE ALMOST DONE</string>
+    <string name="price">MEAT PIZZA PRICE 50000</string>
+    <string name="location">Enter your location</string>
+    <string name="finish">press to finish</string>
+    <string name="welcome">WELCOME TO FOODHUB</string>
+</resources>
